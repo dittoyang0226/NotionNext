@@ -16,9 +16,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '',
   HEO_HERO_TITLE_2: '',
-  HEO_HERO_TITLE_3: 'YANGZIYANG.COM',
-  HEO_HERO_TITLE_4: 'github',
-  HEO_HERO_TITLE_5: '点我去往GitHub',
+  HEO_HERO_TITLE_3: 'YANGZIYANG.TOP',
+  HEO_HERO_TITLE_4: 'gitee',
+  HEO_HERO_TITLE_5: '点我去往GitEE',
   HEO_HERO_TITLE_LINK: 'https://github.com/dittoyang0226',
 
   // 英雄区显示三个置顶分类
