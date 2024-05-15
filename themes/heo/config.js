@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'BLOG.YANGZIYANG.TOP',
   HEO_HERO_TITLE_4: 'github',
   HEO_HERO_TITLE_5: '点我去往GitHub',
-  HEO_HERO_TITLE_LINK: 'https://github.com/dittoyang0226',
+  HEO_HERO_TITLE_LINK: 'https://gitee.com/ziyangyang1318',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/python' },
